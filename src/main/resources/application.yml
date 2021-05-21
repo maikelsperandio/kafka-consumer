@@ -1,0 +1,8 @@
+
+application:
+  params:
+    bootstrap-server: localhost:9092
+    group-id: grp-test-consumer
+    client-id: consumer-client
+    auto-offset-reset: earliest
+    consumer-topic: online-sales
