@@ -1,3 +1,3 @@
 # kafka-consumer
 
-This project connect in a kafka cluster and consome messages
+This project connects in a kafka cluster and consome messages
